@@ -5,7 +5,6 @@ Creator Design : Abdi Syahputra Harahap
 Website        : www.jkoding.xyz
 Pesan          : Untuk Panduan pemasangan safelink ini, silahkan kunjungi website tersebut. Sukses Buat Blogger.. :)
 
-*/
 
 //setting Safelink
 TimeLoadingButtonFirst = 10;
@@ -26,6 +25,8 @@ HeightScroolToButton2 = 70;
 HeightScroolToBoxCopy = 70;
 PathPage1 = '#get';
 PathPage2 = '#go';
+
+*/
 
 var CryptoJS = CryptoJS || function (t, e) {
     var r = {},
